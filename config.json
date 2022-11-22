@@ -21,9 +21,9 @@
   "static_assets_folder": "static-assets",
   "external_sources": [],
   "navigation":{
-    "home":"vac.md",
+    "home":"rlnp2p.md",
     "fileOrdersInSidenav": [
-      "vac.md",
+      "rlnp2p.md",
       "principles.md",
       "research-areas.md",
       "projects.md",
