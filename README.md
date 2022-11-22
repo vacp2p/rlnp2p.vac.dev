@@ -4,8 +4,8 @@ Made and deployed with [logos site-builder](https://github.com/acid-info/logos-s
 
 # Continuous Deloyment
 
-- `staging` branch is deployed to [staging.vac.dev](https://staging.vac.dev)
-- `master` branch is deployed to [vac.dev](https://vac.dev)
+- `staging` branch is deployed to [staging.rlnp2p.vac.dev](https://staging.rlnp2p.vac.dev)
+- `master` branch is deployed to [rlnp2p.vac.dev](https://rlnp2p.vac.dev)
 
 # Change Process
 
