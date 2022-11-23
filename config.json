@@ -23,14 +23,6 @@
   "navigation":{
     "home":"rlnp2p.md",
     "fileOrdersInSidenav": [
-      "rlnp2p.md",
-      "principles.md",
-      "research-areas.md",
-      "projects.md",
-      "open-problems.md",
-      "publications.md",
-      "contribute.md",
-      "media.md"
     ],
     "folderOrdersInSidenav": [
       "research"
@@ -45,22 +37,16 @@
         "text": "Forum",
         "url": "https://forum.vac.dev/",
         "category": "Resources"
-      },
-      {
-        "text": "Waku.org",
-        "url": "https://waku.org",
-        "category": "Resources"
       }
-
     ]
   },
   "ds_id": "vac",
   "seo": {
-    "title": "Vac Research",
+    "title": "Vac Research - RLNP2P",
     "description": "Vac - Communication, Privacy, Etc.",
     "cc": "Vac - Communication, Privacy, Etc",
     "image": "vac-site-preview-image.png",
-    "url": "https://staging.vac.dev",
+    "url": "https://staging.rlnp2p.vac.dev",
     "social_media": [
       {
         "provider": "twitter",
